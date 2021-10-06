@@ -45,66 +45,66 @@ ${message.content}`)
     }
         })
 
-/////////////
+/////////////Saeda
 client.on("message", msg => {
   if (msg.content === "Slaw reklam ") {
     msg.reply("**Bo Mne Bnera Dll**");
   }
 }); 
 
-//////////////
+//////////////Saeda
 client.on("message", msg => {
   if (msg.content === "Slawrk") {
     msg.reply("**Bo Mne Bnera Dll**");
   }
 }); 
-///////////////
+///////////////Saeda
 client.on("message", msg => {
   if (msg.content === "Reklam") {
     msg.reply("**Bo Mne Bnera Dll**");
   }
 }); 
-///////////////
+///////////////Saeda
 client.on("message", msg => {
   if (msg.content === "reklam haea") {
     msg.reply("**Bo Mne Bnera Dll**");
   }
 }); 
-///////////////
+///////////////سەیدە
 client.on("message", msg => {
   if (msg.content === "سلاو ریکلام") {
     msg.reply("**بۆ منی بنێرە دڵ**");
   }
 }); 
-///////////////
+///////////////سەیدە
 client.on("message", msg => {
   if (msg.content === "سلاو ریکلام هەیە") {
     msg.reply("**بۆ منی بنێرە دڵ**");
   }
 }); 
-///////////////
+///////////////سەیدە
 client.on("message", msg => {
   if (msg.content === "ریکلام") {
     msg.reply("**بۆ منی بنێرە دڵ**");
   }
 }); 
-///////////////
+///////////////سەیدە
 client.on("message", msg => {
   if (msg.content === "ریکلام هەیە") {
     msg.reply("**بۆ منی بنێرە دڵ**");
   }
 }); 
-///////////////
+///////////////سەیدە
 client.on("message", msg => {
   if (msg.content === "ریکلام دەکەن") {
     msg.reply("**بۆ منی بنێرە دڵ**");
   }
 }); 
-///////////////
+///////////////سەیدە
 client.on('ready', () => {
 console.log(`ON ${client.guilds.size} Servers`);
 console.log(`Logged in as ${client.user.tag}!`);
-client.user.setGame(`ڕیکلامەکە بنێرە بۆمن دایدەنێم☑️`) 
+client.user.setGame(`ڕیکلامەکە بنێرە بۆمن دایدەنێم`) 
 });
 
 ////Saeda up
