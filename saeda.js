@@ -110,4 +110,4 @@ client.user.setGame(`ڕیکلامەکە بنێرە بۆمن دایدەنێم`)
 ////Saeda up
 
 
-client.login("NzgzMjczMTgwNzg5NDczMjgy.X8YV_g.tORbFnnIZBa2QGaL3zCMmu_CzoY"); ///تۆکین دانێ 
+client.login("ODk1MTEyNTQxOTE3ODA2NjQy.YVz0hA.MVeFAajQue4lu6RLn4pyo_3c9ZQ"); ///تۆکین دانێ 
