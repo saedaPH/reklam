@@ -45,9 +45,62 @@ ${message.content}`)
     }
         })
 
+/////////////
+client.on("message", msg => {
+  if (msg.content === "Slaw reklam ") {
+    msg.reply("**Bo Mne Bnera Dll**");
+  }
+}); 
 
-
-
+//////////////
+client.on("message", msg => {
+  if (msg.content === "Slawrk") {
+    msg.reply("**Bo Mne Bnera Dll**");
+  }
+}); 
+///////////////
+client.on("message", msg => {
+  if (msg.content === "Reklam") {
+    msg.reply("**Bo Mne Bnera Dll**");
+  }
+}); 
+///////////////
+client.on("message", msg => {
+  if (msg.content === "reklam haea") {
+    msg.reply("**Bo Mne Bnera Dll**");
+  }
+}); 
+///////////////
+client.on("message", msg => {
+  if (msg.content === "سلاو ریکلام") {
+    msg.reply("**بۆ منی بنێرە دڵ**");
+  }
+}); 
+///////////////
+client.on("message", msg => {
+  if (msg.content === "سلاو ریکلام هەیە") {
+    msg.reply("**بۆ منی بنێرە دڵ**");
+  }
+}); 
+///////////////
+client.on("message", msg => {
+  if (msg.content === "ریکلام") {
+    msg.reply("**بۆ منی بنێرە دڵ**");
+  }
+}); 
+///////////////
+client.on("message", msg => {
+  if (msg.content === "ریکلام هەیە") {
+    msg.reply("**بۆ منی بنێرە دڵ**");
+  }
+}); 
+///////////////
+client.on("message", msg => {
+  if (msg.content === "ریکلام دەکەن") {
+    msg.reply("**بۆ منی بنێرە دڵ**");
+  }
+}); 
+///////////////
 client.on('ready', () => {
 console.log(`ON ${client.guilds.size} Servers`);
 console.log(`Logged in as ${client.user.tag}!`);
