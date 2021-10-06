@@ -54,7 +54,7 @@ console.log(`Logged in as ${client.user.tag}!`);
 client.user.setGame(`ڕیکلامەکە بنێرە بۆمن دایدەنێم☑️`) 
 });
 
-Saeda up
+////Saeda up
 
 
 client.login(""); ///تۆکین دانێ 
