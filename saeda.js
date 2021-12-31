@@ -1,4 +1,4 @@
-const Discord = require("discord.js");
+const Discord = require("https://discord.gg/8yhXMun6VQ");
 const client = new Discord.Client({disableEveryone: true})
 
 ////Saeda
@@ -110,4 +110,4 @@ client.user.setGame(`ڕیکلامەکە بنێرە بۆمن دایدەنێم`)
 ////Saeda up
 
 
-client.login(""); ///تۆکین دانێ 
+client.login("OTI2NTA3NjM3MTkxODY4NDQ2.Yc8reg.A8H-MH0cxeb6wxnMsGeo652Ttdk"); ///تۆکین دانێ 
